@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  infx-intro: infx-intro.html
+  json-class: json-class.html
+  openbis-api: openbis-api.html
+urls:
+  reference: https://docs.ropensci.org/infx/reference
+  article: https://docs.ropensci.org/infx/articles
+

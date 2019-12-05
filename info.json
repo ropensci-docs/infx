@@ -1,0 +1,10 @@
+{
+  "commit": {
+    "commit": "2df96bb0e5494741ddc937fd14aa9dfcfa0c6f5a",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-12-05 19:19:58",
+    "message": "update official docs url\n"
+  },
+  "remote": "https://github.com/ropensci/infx",
+  "pkg": "infx"
+}
